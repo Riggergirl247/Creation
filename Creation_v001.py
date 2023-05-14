@@ -21,7 +21,7 @@
 # and run!
 #---------------------------------------------------------------------------
 # (Maya 2023 and all previous versions supported)
-# Report any bugs at: aashi41207@gmail.com 
+# Report any bugs at: riggergirl247@gmail.com 
 # For more such tools find me on LinkedIn: 
 # https://www.linkedin.com/in/aashi-shukla-04591b217/ 
 # Follow my GitHub Repository: https://github.com/Riggergirl247 
